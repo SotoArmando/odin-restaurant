@@ -1,13 +1,3 @@
-console.log("am a frog not a virus trust me ;)")
-
-const space = [
-    document.querySelector("first-content"),
-    document.querySelector("second-content"),
-    document.querySelector("third-content")
-];
-
-console.log(space);
-
 document.querySelector("first-content").style.display = ""
 document.querySelector("second-content").style.display = "none"
 document.querySelector("third-content").style.display = "none"
