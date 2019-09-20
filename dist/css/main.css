@@ -74,3 +74,31 @@ input[type="button"] {
 input[type="button"]:hover {
     cursor: pointer;
 }
+
+second-content span {
+    padding: .5rem .6rem;
+}
+
+wrapper second-content {
+    padding: 6rem 0;
+    display: flex;
+    max-width: 40rem;
+    text-align: center;
+    font-size: 1.890625rem;
+    flex-direction: column;
+    padding-bottom: 3rem !important;
+}
+
+third-content span {
+    padding: .5rem .6rem;
+}
+
+wrapper third-content {
+    padding: 6rem 0;
+    display: flex;
+    max-width: 40rem;
+    text-align: center;
+    font-size: 1.890625rem;
+    flex-direction: column;
+    padding-bottom: 3rem !important;
+}
