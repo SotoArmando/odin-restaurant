@@ -16,8 +16,10 @@
   "bugs": {
     "url": "https://github.com/SotoArmando/Odin-restaurant/issues"
   },
-  "jest": {
-    "testEnvironment": "jsdom"
+  "eslintConfig" : {
+    "jest": {
+      "testEnvironment": "jsdom"
+    },
   },
   "homepage": "https://github.com/SotoArmando/Odin-restaurant#readme",
   "devDependencies": {
