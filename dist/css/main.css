@@ -1,0 +1,105 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.025));
+    color: #000;
+    color: rgba(0, 0, 0, 0.85);
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 0;
+}
+
+nav {
+    align-items: center;
+    border-bottom: 1px dashed #000;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.10);
+    display: flex;
+    flex-direction: row;
+    font-size: 1.375rem;
+    justify-content: space-between;
+    padding: .5rem 0;
+    position: fixed;
+    width: 100%;
+}
+
+nav-end {
+    padding-right: 10rem;
+}
+
+nav-start {
+    padding-left: 10rem;
+}
+
+nav a {
+    display: inline-block;
+    padding: .5rem .6rem;
+}
+
+nav a:hover {
+    cursor: pointer;
+}
+
+wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+nav-start {
+    display: flex;
+    flex-direction: row;
+}
+
+first-content span {
+    padding: .5rem .6rem;
+}
+
+wrapper first-content {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.890625rem;
+    max-width: 40rem;
+    padding-bottom: 3rem;
+    padding: 6rem 0;
+    text-align: center;
+}
+
+input[type="button"] {
+    background-color: transparent;
+    border: none;
+    font-size: 1.890625rem;
+    font-weight: 500;
+    margin-top: 1rem;
+    padding: .5rem .6rem;
+}
+
+input[type="button"]:hover {
+    cursor: pointer;
+}
+
+second-content span {
+    padding: .5rem .6rem;
+}
+
+wrapper second-content {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.890625rem;
+    max-width: 40rem;
+    padding-bottom: 3rem;
+    padding: 6rem 0;
+    text-align: center;
+}
+
+third-content span {
+    padding: .5rem .6rem;
+}
+
+wrapper third-content {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.890625rem;
+    max-width: 40rem;
+    padding-bottom: 3rem;
+    padding: 6rem 0;
+    text-align: center;
+}
