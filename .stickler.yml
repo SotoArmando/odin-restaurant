@@ -4,7 +4,7 @@ linters:
     eslint:
         config: './eslint.config'
     csslint:
-
+        ignore: 'order-alphabetical'
 files:
     ignore:
         - 'src/generated/*'
