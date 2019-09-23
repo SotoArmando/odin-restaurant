@@ -16,14 +16,14 @@
   "bugs": {
     "url": "https://github.com/SotoArmando/Odin-restaurant/issues"
   },
-  "eslintConfig" : {
+  "eslintConfig": {
     "jest": {
       "testEnvironment": "jsdom"
     }
   },
   "homepage": "https://github.com/SotoArmando/Odin-restaurant#readme",
   "devDependencies": {
-    "webpack": "^4.39.3",
+    "webpack": "^4.40.2",
     "webpack-cli": "^3.3.8"
   },
   "dependencies": {
