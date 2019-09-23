@@ -12,14 +12,13 @@ nav {
     align-items: center;
     border-bottom: 1px dashed rgba(0, 0, 0, 0.10);
     background-color: #ffffff;
-    justify-content: space-between;
     display: flex;
     flex-direction: row;
+    font-size: 1.375rem;
+    justify-content: space-between;
     padding: .5rem 0;
     position: fixed;
-    font-size: 1.375rem;
     width: 100%;
- 
 }
 
 nav-end {
