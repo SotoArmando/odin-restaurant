@@ -53,7 +53,7 @@ first-content span {
     padding: .5rem .6rem;
 }
 
-wrapper first-content {
+wrapper > first-content {
     display: flex;
     flex-direction: column;
     font-size: 1.890625rem;
@@ -80,7 +80,7 @@ second-content span {
     padding: .5rem .6rem;
 }
 
-wrapper second-content {
+wrapper > second-content {
     display: flex;
     flex-direction: column;
     font-size: 1.890625rem;
@@ -94,7 +94,7 @@ third-content span {
     padding: .5rem .6rem;
 }
 
-wrapper third-content {
+wrapper > third-content {
     display: flex;
     flex-direction: column;
     font-size: 1.890625rem;
