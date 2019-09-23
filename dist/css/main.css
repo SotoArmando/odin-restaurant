@@ -9,7 +9,6 @@ body {
 }
 
 nav {
-    /* background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(255, 255, 255, 0.54)); */
     align-items: center;
     background-color: transparent;
     border-bottom: 1px dashed rgba(0, 0, 0, 0.10);
@@ -17,8 +16,8 @@ nav {
     font-size: 1.375rem;
     flex-direction: row;
     justify-content: space-between;
-    position: fixed;
     padding: .5rem 0;
+    position: fixed;
     width: 100%;
  
 }
@@ -59,8 +58,9 @@ wrapper first-content {
     flex-direction: column;
     max-width: 40rem;
     padding: 6rem 0;
+    padding-bottom: 3rem;
     text-align: center;
-    padding-bottom: 3rem !important;
+
 }
 
 input[type="button"] {
