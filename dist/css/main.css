@@ -10,8 +10,8 @@ body {
 
 nav {
     align-items: center;
-    border-bottom: 1px dashed rgba(0, 0, 0, 0.10);
     background-color: #ffffff;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.10);
     display: flex;
     flex-direction: row;
     font-size: 1.375rem;
@@ -53,11 +53,11 @@ first-content span {
 
 wrapper first-content {
     display: flex;
-    font-size: 1.890625rem;
     flex-direction: column;
+    font-size: 1.890625rem;
     max-width: 40rem;
-    padding: 6rem 0;
     padding-bottom: 3rem;
+    padding: 6rem 0;
     text-align: center;
 
 }
@@ -65,8 +65,8 @@ wrapper first-content {
 input[type="button"] {
     background-color: transparent;
     border: none;
-    font-weight: 500;
     font-size: 1.890625rem;
+    font-weight: 500;
     margin-top: 1rem;
     padding: .5rem .6rem;
 }
@@ -81,11 +81,11 @@ second-content span {
 
 wrapper second-content {
     display: flex;
-    font-size: 1.890625rem;
     flex-direction: column;
+    font-size: 1.890625rem;
     max-width: 40rem;
-    padding: 6rem 0;
     padding-bottom: 3rem;
+    padding: 6rem 0;
     text-align: center;
 }
 
@@ -95,10 +95,10 @@ third-content span {
 
 wrapper third-content {
     display: flex;
-    font-size: 1.890625rem;
     flex-direction: column;
+    font-size: 1.890625rem;
     max-width: 40rem;
-    padding: 6rem 0;
     padding-bottom: 3rem;
+    padding: 6rem 0;
     text-align: center;
 }

@@ -19,7 +19,7 @@
   "eslintConfig" : {
     "jest": {
       "testEnvironment": "jsdom"
-    },
+    }
   },
   "homepage": "https://github.com/SotoArmando/Odin-restaurant#readme",
   "devDependencies": {
