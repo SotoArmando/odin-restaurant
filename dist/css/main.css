@@ -1,6 +1,7 @@
 body {
-    background: #fff;
+    background-image: #000;
     background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.025));
+    color: #000;
     color: rgba(0, 0, 0, 0.85);
     font-family: 'Roboto', sans-serif;
     font-size: 1rem;
@@ -10,8 +11,7 @@ body {
 
 nav {
     align-items: center;
-    background-color: #fff;
-    background: #fff;
+    background-color: #ffffff;
     border-bottom: 1px dashed rgba(0, 0, 0, 0.10);
     display: flex;
     flex-direction: row;
